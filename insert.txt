@@ -1,0 +1,8 @@
+INSERT INTO notices(id,name,pw,title,content)
+VALUES(1, '한서희','gkdkfkdk12','ㅎ2','안녕하세요');
+
+INSERT INTO notices(id,name,pw,title,content)
+VALUES(2, '한정민','gkdkfkdk1s2','ㅇㅋ','누구세요');
+
+INSERT INTO notices(id,name,pw,title,content)
+VALUES(3, '한성규','gskdkfkdk1s2','???','메롱');
